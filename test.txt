@@ -1,1 +1,3 @@
 test a file added to git
+now we created a repo on github
+we push all of branch master to remote origin
